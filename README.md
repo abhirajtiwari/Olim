@@ -1,3 +1,6 @@
+Goal of this fork is to build upon OLauncher to add features I want and keep it open for anyone else to use. Information about original repo is below.
+
+---
 ![Olauncher](https://repository-images.githubusercontent.com/278638069/db0acb80-661b-11eb-803e-926cae5dccb4)
 
 
